@@ -1,0 +1,6 @@
+﻿  2.cpp
+  rough.cpp
+  Generating Code...
+C:\Users\DELL\source\repos\Discrete Structure Final Project\rough.cpp(71,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\DELL\source\repos\Discrete Structure Final Project\rough.cpp(169,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Discrete Structure Final Project.vcxproj -> C:\Users\DELL\source\repos\Discrete Structure Final Project\x64\Debug\Discrete Structure Final Project.exe
